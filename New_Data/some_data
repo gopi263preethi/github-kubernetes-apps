@@ -7,4 +7,12 @@ Here i want to tell you few points:
      Kubernetes
      Jenkins
      Shell Scripting.
-     
+    
+
+    [text](docker.jfif)
+
+The above images is representation of the Docker images.
+
+![alt text](<docker containers.png>)
+
+The above images is showing the hierarchy of the images which are running 
