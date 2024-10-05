@@ -17,6 +17,7 @@ Project Structure
 
 
 Prerequisites
+
 •	Terraform  v1.5.23
 •	AWS CLI Configured with access_key and secret_key 
 •	AWS Account with necessary Permissions 
@@ -36,11 +37,17 @@ Then finally if want to provision resources on AWS Cloud then run the commad
  Variables Used
        Variables are  used to store the values for certain attributes or values of resources like  ami id and instance type and cidr_block and etc. Variables are even used to store the access_key and secret_key for the provider details for authentication and authorization. Variables allows us not to depend upon hard coded values.
 Here below parameters we have used 
+
+
 •	AMI ID  
 •	INSTANCE TYPE  
 •	ACCESS_KEY 
 •	SECRET_KEY 
 •	CIDR_BLOCK  
+
+
+
+
 Output
         For this project we are declaring the output value of load balancer dns name.
 
