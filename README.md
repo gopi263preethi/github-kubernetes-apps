@@ -11,9 +11,7 @@ Project Architecture
 
 
 
-This is the below hierarchy of the images which are in the below structure .
- 
-![alt text](image.png)
+
 
 
 
