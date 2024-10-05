@@ -10,6 +10,13 @@ Project Architecture
 
 
 
+
+This is the below hierarchy of the images which are in the below structure .
+ 
+![alt text](image.png)
+
+
+
 Project Structure 
 
 ![alt text](image-1.png)
